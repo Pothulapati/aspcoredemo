@@ -20,7 +20,7 @@ namespace myaspdemo.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "values";
         }
 
         // POST api/values
